@@ -1,0 +1,8 @@
+{
+  "var" : "change_var",
+  "Math.pow" : "change_pow",
+  "catch (error)" : "change_error",
+  "catch(error)" : "change_error",
+  "||" : "change_nullish_coalescing_operator",
+  "?" : "change_optional_chaining_operator"
+}
